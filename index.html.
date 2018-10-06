@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width">
+    <title>repl.it</title>
+    <link href="style.css" rel="stylesheet" type="text/css" />
+  </head>
+  <body>
+    <h1><span class="uncle-al">Uncle Als</span>
+     games and Videos!</h1>
+    <h2>All of the videos and games you can want!</h2>
+    <script src="script.js"></script>
+    <p>We have...</p>
+    <li id="list-1">music videos</li>
+    <li id="list-2">logic games</li>
+    <li id="list-3">coolmath favorites</li>
+    <li id="list-4">other</li>
+    <h3>music videos</h3>
+    <p>Just click on the name</p>
+    <a href="https://youtu.be/0I647GU3Jsc"target="_blank">Naural by imagine dragons.</a><br>
+    <a href="https://youtu.be/-bx_vG94LSo"target="_blank">Beautiful by Bazzi.</a><br>
+    <a href="https://youtu.be/mzB1VGEGcSU"target="_blank">Lucid dreams by juice wrld.</a><br>   <a href="https://youtu.be/hdw1uKiTI5c"target="_blank"> Rise by katy Perry</a><br>
+    <a href="https://youtu.be/MLn3YHeeaKc" target="_blank">Autumn leaves by Oscar peterson</a><br>
+    <a href="https://youtu.be/eHrGwEypJ2U"target="_blank">Sin by young thug</a></div>
+
+      <h3>Coolmath games</h3>
+    <a href="https://www.coolmathgames.com/0-jimothy-piggerton"target="_blank">Jimothy piggerton</a><br>
+
+    <a href="https://www.coolmathgames.com/0-spab"target="_blank">spab</a><br>
+
+    <a href="https://www.coolmathgames.com/0-basketball-master-2"target="_blank">Basketball master 2</a><br>
+
+    <a href="https://www.coolmathgames.com/0-olympic-jump"
+    target="_blank">Olympic jump</a><br>
+
+    <a href="https://www.coolmathgames.com/0-awesome-tanks "
+    target="_blank">Awesome Tanks</a><br>
+
+    <a href="https://www.coolmathgames.com/0-raft-war"target="_blank">Raft wars</a>
+
+    <h3>Logic games</h3>
+
+    <p>Note that not all of these games are coolmath and some may go to websites that you won't expect.</p>
+    <a href="https://gabrielecirulli.github.io/2048/"target="blank">2048</a><br>
+    <a href="https://sudoku.game/"target="_blank">Soduku/solitare</a><address></address>
+    <div id="official-info"><h4>Background on soduku</h4>
+    <p id="soduku-info"> Soduku is a logic-based,combinatorial number-placement puzzle. The objective is to fill a 9×9 grid with digits so that each column, each row, and each of the nine 3×3 subgrids that compose the grid (also called "boxes", "blocks", or "regions") contains all of the digits from 1 to 9. The puzzle setter provides a partially completed grid, which for a well-posed puzzle has a single solution.
+
+Completed games are always a type of Latin square with an additional constraint on the contents of individual regions. For example, the same single integer may not appear twice in the same row, column, or any of the nine 3×3 subregions of the 9x9 playing board.
+
+French newspapers featured variations of the puzzles in the 19th century, and the puzzle has appeared since 1979 in puzzle books under the name Number Place.[5] However, the modern Sudoku only started to become mainstream in 1986 by the Japanese puzzle company Nikoli, under the name Sudoku, meaning "single number".[6] It first appeared in a US newspaper and then The Times (London) in 2004, from the efforts of Wayne Gould, who devised a computer program to rapidly produce distinct puzzles.</p></div>
+<h6>Source:</h6><a href="https://www.wikipedia.org/"target="_blank">Wikipedia</a>
+
+
+
+
+  </body>
+</html> 
